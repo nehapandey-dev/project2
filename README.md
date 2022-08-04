@@ -1,19 +1,23 @@
 # Project-2
 
-This project is related to the home page of food resturant.
+This project is about the home page of food resturant.
 
-## Freature 
+## Challenges
+There were lots of challenges for me to complete this project like :
 
-This is food resturant home page where you can check the menu and can order your delicious food.
+- how to change background colour by using liner-gradient property
+- how to center navigation menu and button
+- font-size
+- box size 
+- set box background color
+- absolute and relative position for top,bottom,left and right
 
-## Lesson Learned
-
-
-In this project I learnt about the liner-gradient property to change the background color. As a beginner i had no idea how to fix that issue but after watching the course video and practic, I could be able to fix this problem.
 
 ## Time Taken 
 
-I could be able to complete this project in 1.5 hours.
+It took 3.5 hours to complete this project.
+
+![Mysecond Project](./project2_img.png)
 
 
 
